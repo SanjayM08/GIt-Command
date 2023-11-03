@@ -1,0 +1,11 @@
+
+GIT CMD FOR CLONE A GIT REPOSITORY 
+
+INSTRUCTION FOR USE IT 
+        First Of You Have to go a repository
+        Next Select the code in the screen
+        Then YOu can Copy the link and past it here for the command
+
+CMD :
+    git clone <repository link>
+

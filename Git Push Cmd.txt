@@ -1,0 +1,11 @@
+
+GIT CMD FOR PUSH 
+
+INSTRUCTION FOR USE IT 
+        First You have to go for the path then cmd it
+
+CMD :
+    git add .
+    git commit -m <file name > or *(Use for select all items)
+    git push
+

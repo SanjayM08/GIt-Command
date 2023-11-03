@@ -1,0 +1,10 @@
+CMD FOR SET-UP  
+
+INSTRUCTION FOR USE IT 
+        First You have to install the git bash set up application here the link for download it https://git-scm.com/downloads 
+        Then You Have go for the path in vs code and cmd the code  
+        Now You can see the Install pros
+
+CMD :
+    git init
+
